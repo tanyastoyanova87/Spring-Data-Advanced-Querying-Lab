@@ -1,7 +1,7 @@
-package bg.softuni.springdataadvancedqueryinglab.repositories;
+package bg.softuni.SpringDataAdvancedQueryingLab.data.repositories;
 
-import bg.softuni.springdataadvancedqueryinglab.entities.Shampoo;
-import bg.softuni.springdataadvancedqueryinglab.entities.Size;
+import bg.softuni.SpringDataAdvancedQueryingLab.data.entities.Shampoo;
+import bg.softuni.SpringDataAdvancedQueryingLab.data.entities.Size;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package bg.softuni.springdataadvancedqueryinglab;
+package bg.softuni.SpringDataAdvancedQueryingLab;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

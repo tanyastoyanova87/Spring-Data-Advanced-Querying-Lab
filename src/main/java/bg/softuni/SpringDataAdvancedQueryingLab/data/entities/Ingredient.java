@@ -1,4 +1,4 @@
-package bg.softuni.springdataadvancedqueryinglab.entities;
+package bg.softuni.SpringDataAdvancedQueryingLab.data.entities;
 
 import jakarta.persistence.*;
 
